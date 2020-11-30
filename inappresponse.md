@@ -1,5 +1,3 @@
-# appodeal
-
 ## Video bid ios
 
 ### Response
